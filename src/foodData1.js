@@ -124,7 +124,7 @@ const foodData =[
       "Toss the greens and vegetables with the dressing in a large bowl.",
       "Divide the salad among individual plates and serve immediately."
     ],
-    "price": 20
+    "price": 25
   }
 ];
 export default foodData;
